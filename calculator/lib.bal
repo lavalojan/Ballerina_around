@@ -1,4 +1,4 @@
-//package calculator;
+
 
 function add(float a, float b) returns (float) {
     return a + b;
